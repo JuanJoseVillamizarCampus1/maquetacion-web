@@ -1,0 +1,196 @@
+body{
+    margin: 3% 10%;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.container{
+    background-image: url(imgs/back-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: .5%;
+    height: 1670px;
+    
+}
+.header{
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    font-size: 2.7em;
+    padding: 0;
+}
+.nav{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    font-size: 1.7em;
+}
+.tittle{
+    padding-left: 450px;
+}
+hr{
+    size: 8px;
+    margin: 10px;
+    border: 3px solid black;
+}
+.content{
+  
+    height: 1200px;
+}
+.setion{
+
+    
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    top:px;
+    font-weight: 550;
+    font-size: 1em;
+    
+}
+.article{
+   
+    width: 80%;
+    margin-left: 100px;
+}
+.aside{
+    position: relative;
+   
+    display: inline-block;
+    width: 45%;
+    margin-left: 3%;
+    right: -700px;
+    top: -1230px;
+  
+}
+.woman-img{
+    width: 350px;
+    height: 300px;
+    padding-left: 50px;
+}
+.article-woman{
+
+    display:inline-block;
+    width: 75%;
+    border-width: 8px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: black;
+    
+}
+.tittle-text{
+    position: relative;
+    
+}
+.sub-title-text{
+    font-family: 'Lobster', cursive;
+}
+.size-tittle-w{
+    position: relative;
+    font-size: 2em;
+    display: inline-block;
+    position: relative;
+    top:-100px
+
+}
+.size-tittle-wo{
+    position: relative;
+    font-size: 2.7em;
+    padding: 0;
+    margin: 0;
+    left: -200px;
+    display: inline-block;
+}
+
+h1 ,h2 {
+    padding: 0;
+    margin: 0;
+}
+.imag-woman{
+    display: inline-block;
+    position: relative;
+    left: 130px;
+    bottom: 10px;
+    width: 20px;
+    height: 220px;
+    
+}
+.mujer{
+    width: 200px;
+    height: 220px;
+}
+.sub-tittle-aside{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    font-size: 1.7em;
+    margin-left: 70px;
+}
+.childrens{
+    margin-left: 100px;
+}
+.niños{
+    width: 400px;
+    height: 200px;
+}
+.texto-childrens{
+   
+    width:70%;
+    margin-left: 100px;
+}
+.men{
+    display: inline-block;
+    position: relative;
+    top: -380px;
+    left: 50px;
+}
+.content2{
+    display: inline-block;
+   
+}   
+.text-men{
+   
+    width:20%;
+    font-weight: 700;
+    margin-left: 80px;
+    
+}
+
+.oe{
+    font-weight: 700;
+}
+.sub-tittle-aside{
+    position: relative;
+    top: 10px;
+}
+.img-men{
+    
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    bottom:200px;
+}
+.man{
+    width: 200px;
+
+}
+.linea{
+    border-left: 5px solid  ;
+}
+.footer{
+    display: block;
+    position: relative;
+    bottom: 1250px;
+    font-size: 2em;
+}
+.title-footer{
+    
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+svg{
+    width: 50px;
+    display: inline;
+}
+.position-footer{
+    margin-left: 350px;
+}
