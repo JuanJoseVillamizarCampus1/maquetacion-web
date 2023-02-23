@@ -3,6 +3,9 @@ body{
     padding: 0;
     background-color: antiquewhite;
     background-image: url(imgs/fallout-4-fez4gn3kgqco8xyu.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    font-weight: 100 !important;
 }
 .container{
     background-image: url(imgs/back-img.jpg);
@@ -58,13 +61,12 @@ hr{
     width: 45%;
     margin-left: 3%;
     right: -700px;
-    top: -1120px;
+    top: -1150px;
   
 }
 .woman-img{
     width: 350px;
     height: 300px;
-    padding-left: 50px;
 }
 .article-woman{
 
@@ -148,9 +150,10 @@ h1 ,h2 {
 }   
 .text-men{
    
-    width:35%;
+    width:45%;
     font-weight: 700;
-    margin-left: 80px;
+    margin-left: 100px;
+    margin-top: 100px;
     
 }
 
@@ -191,7 +194,7 @@ svg{
     display: inline;
 }
 .position-footer{
-    margin-left: 350px;
+    margin-left: 550px;
 }
 .section-man{
   
